@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="tagline">You Have Problem, We Have IT Solution</string>
+    <string name="company_name">Digit Creative Studio</string>
+</resources>
